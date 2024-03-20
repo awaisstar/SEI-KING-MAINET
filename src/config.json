@@ -10,21 +10,6 @@
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"kING TEAM",
-            "allowlist":[
-                "sei1exaepghpz262e2funpwkksf5avyu8zxwh70l5m",
-                "sei1v2g730amsw66ytjqs6jnw7xvwrwp6fefa82hrt",
-                "sei1dwqedyqx9fqmv65d34w59jsvqwg4jq27nyktew",
-                "sei14r5f3pr8upzytmmxs6lvrjcn8r2w4mcytx4q6s"
-            ]
-        },
-        {
-            "name":"VIP KING",
-            "allowlist":[
-                "sei1dwqedyqx9fqmv65d34w59jsvqwg4jq27nyktew"
-                ]
-        },
-        {
             "name":"OG",
             "allowlist":[
                 "sei14c4qwduet560jr9wne5w89nm3rvs29csq6t773",
